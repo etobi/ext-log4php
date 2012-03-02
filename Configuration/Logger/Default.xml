@@ -4,7 +4,7 @@
 		<layout class="LoggerLayoutPattern">
 			<param name="conversionPattern" value="%d{Y-m-d H:i:s.u} %c %-5p %m%n"/>
 		</layout>
-		<param name="file" value="log4php.log"/>
+		<param name="file" value="../typo3temp/log4php.log"/>
 		<param name="append" value="true"/>
 	</appender>
 	<root>

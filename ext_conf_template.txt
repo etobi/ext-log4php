@@ -1,0 +1,2 @@
+# cat=config; type=string; label=Config file: log4php configuration file (xml)
+configFile = EXT:log4php/Configuration/Logger/Default.xml
